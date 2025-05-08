@@ -1,0 +1,17 @@
+backend\GenericClothing.class
+Controlador\AppController.class
+backend\Clothing.class
+backend\ShoppingCart.class
+backend\Jacket.class
+backend\Administrator.class
+backend\Jeans.class
+frontend\AdminPanel$1.class
+frontend\AdminPanel.class
+backend\Person.class
+frontend\ShoppingCartView.class
+backend\TShirt.class
+backend\Customer.class
+frontend\AdminPanel$2.class
+frontend\ProductList.class
+frontend\ShoppingCartView$1.class
+frontend\GenericClothing.class
