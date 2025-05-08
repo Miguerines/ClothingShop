@@ -1,13 +1,13 @@
 package Controlador;
 
-import backend.Administrator;
-import backend.Clothing;
-import backend.GenericClothing;
-import frontend.AdminPanel;
-import frontend.ProductList;
-import frontend.ShoppingCartView;
-import frontend.Storefront;
-import backend.ShoppingCart;
+import Modelo.Administrator;
+import Modelo.Clothing;
+import Modelo.GenericClothing;
+import Vista.AdminPanel;
+import Vista.ProductList;
+import Vista.ShoppingCartView;
+import Vista.Storefront;
+import Modelo.ShoppingCart;
 
 import javax.swing.*;
 import java.util.ArrayList;
