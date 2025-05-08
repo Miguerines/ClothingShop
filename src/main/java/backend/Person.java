@@ -1,3 +1,5 @@
+package backend;
+
 /**
  * Base class representing a person in the system.
  * Contains common attributes and methods for authentication.

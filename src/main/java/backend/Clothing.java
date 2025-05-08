@@ -1,3 +1,5 @@
+package backend;
+
 /**
  * Abstract base class for all clothing items in the store.
  * Contains common properties for all clothing products.
